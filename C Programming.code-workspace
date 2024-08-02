@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../C Programming"
+		},
+		{
+			"path": "../../HTML"
+		},
+		{
+			"path": "../../Node.js"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FreeCodeCamp"
+	}
+}
